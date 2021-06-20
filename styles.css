@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background:#898bff
+    
+  }
+
+header{
+    background:#00319c;
+    color:#f7f7f7;
+    padding:1px;
+}
+
+img{
+    max-height:535px;
+    
+}
+
+.banner{
+    position: relative;
+    text-align: center;
+    color:white;
+    border-style: none;
+}
+
+.welcometoMOAA2021{
+    position: absolute;
+    font-size:50px;
+    top:60px;
+    bottom:4px;
+    margin-left:30px;
+    
+    
+}
+
+.MOAA2021{
+    position: absolute;
+    top:100px;
+    right: 110px;
+    font-size:75px;
+    text-decoration:underline;
+    
+}
+
+
+
+a{
+    color:rgb(134, 61, 128);
+}
+
+a:hover{
+    border-style:solid;
+
+    border-radius:10px;
+
+    padding:5px;
+
+    background-color:yellow;
+
+}
+
+
+.details{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+
+    border-radius: 15px;
+
+    
+
+    border-style: dashed;
+
+    border-color:#474747;
+
+    padding:10px;
+    
+}
+
+
+p{
+    font-size: 20px;
+
+    margin-left:10px;
+
+    margin-right:10 px;
+}
+
+.main-nav{
+    text-align: center;
+
+    font-size: 20px;
+
+    background:#5768fc;
+
+    padding: 30px;
+
+    border-style:solid;
+
+    
+
+
+    
+    
+}
+
+.copyright{
+    text-align: center;
+    color: #ffffff;
+}
+
+.email-list{
+    text-align: center;
+    padding: 25px;
+    background: #5768fc;
+    color:000000;
+    
+}
+
+.update{
+    border-style: none;
+}
+
+.welcome{
+    border-style: none;
+}
+
+footer{
+    background: #1d242a;
+}
