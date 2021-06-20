@@ -10,6 +10,17 @@ header{
     background:#00319c;
     color:#f7f7f7;
     padding:1px;
+    
+}
+
+ul{
+    white-space: nowrap;
+
+}
+
+li{
+    width:25%;
+    display:inline-block;
 }
 
 img{
